@@ -1,0 +1,202 @@
+[
+    {
+        "product_id": 1001,
+        "product": "Wireless Mouse",
+        "stock": 50,
+        "price": 799,
+        "profit margin": 20,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1002,
+        "product": "Mechanical Keyboard",
+        "stock": 30,
+        "price": 2499,
+        "profit margin": 25,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1003,
+        "product": "USB-C Cable",
+        "stock": 100,
+        "price": 399,
+        "profit margin": 30,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1004,
+        "product": "Laptop Stand",
+        "stock": 40,
+        "price": 1299,
+        "profit margin": 22,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1005,
+        "product": "Wireless Earbuds",
+        "stock": 35,
+        "price": 1999,
+        "profit margin": 18,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1006,
+        "product": "Power Bank",
+        "stock": 45,
+        "price": 1499,
+        "profit margin": 20,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1007,
+        "product": "Bluetooth Speaker",
+        "stock": 25,
+        "price": 1799,
+        "profit margin": 24,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1008,
+        "product": "Webcam",
+        "stock": 20,
+        "price": 2299,
+        "profit margin": 23,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1009,
+        "product": "Gaming Headset",
+        "stock": 30,
+        "price": 1599,
+        "profit margin": 21,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1010,
+        "product": "HDMI Cable",
+        "stock": 80,
+        "price": 499,
+        "profit margin": 28,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1011,
+        "product": "Laptop Backpack",
+        "stock": 35,
+        "price": 1199,
+        "profit margin": 20,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1012,
+        "product": "Phone Holder",
+        "stock": 60,
+        "price": 499,
+        "profit margin": 35,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1013,
+        "product": "Smart LED Bulb",
+        "stock": 50,
+        "price": 699,
+        "profit margin": 27,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1014,
+        "product": "Desk Lamp",
+        "stock": 30,
+        "price": 999,
+        "profit margin": 25,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1015,
+        "product": "MicroSD Card 128GB",
+        "stock": 40,
+        "price": 899,
+        "profit margin": 17,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1016,
+        "product": "USB Flash Drive 64GB",
+        "stock": 70,
+        "price": 599,
+        "profit margin": 26,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1017,
+        "product": "Laptop Cooling Pad",
+        "stock": 25,
+        "price": 1099,
+        "profit margin": 24,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1018,
+        "product": "Wireless Charger",
+        "stock": 40,
+        "price": 899,
+        "profit margin": 22,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1019,
+        "product": "Smartphone Tripod",
+        "stock": 30,
+        "price": 799,
+        "profit margin": 29,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    },
+    {
+        "product_id": 1020,
+        "product": "Portable SSD 500GB",
+        "stock": 15,
+        "price": 3999,
+        "profit margin": 15,
+        "stock sold": 0,
+        "net sales": 0,
+        "Net Profit": 0
+    }
+]
